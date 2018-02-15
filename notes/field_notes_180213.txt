@@ -1,0 +1,33 @@
+Sito: Valduggia (VC), SIC Monte Fenera
+Tipo forestale: castagneto ceduo
+Substrato: calcareo
+(vedi tesi Di Natale per inquadramento climatico e geologico)
+
+Obiettivo: valutare che cosa determini la capacità pollonifera del castagno
+
+Disegno sperimentale: 5 ha di ceduo (ultimo trattamento registrato: diradamento circa 20 anni fa; ultima ceduazione: sconosciuto), di cui 3 sottoposti a taglio del ceduo con rilascio di copertura media cca 20% (localmente >) e 2 sottoposti a taglio di ricostituzione (il bosco viene dichiarato daneggiato per deperimento da siccità+cancro) con taglio del 100% del ceduo e rilascio delle sole specie diverse dal castagno.
+
+cfr Manuale di gestione del castagno (CREA 2017) e esperienze cedui di castagno su M Amiata
+
+Disegno di campionamento: 2XX ceppaie misurate e monitorate per 5 anni:
+- specie
+- posizione gps (angolo e distanza da caposaldo)
+- distanza dalle 5 ceppaie concorrenti più vicine (pre-taglio)
+- distanza dalle 5 ceppaie concorrenti più vicine (post-taglio)
+- numero polloni su ceppaia, loro diametro (base e 1.30 m), vitalità (vivo/morto), numero polloni già tagliati
+- età (conteggio anelli su ceppaia)
+- qualità del taglio (alto/basso inclinato/dritto, regolare/irregolare)
+- microtopografia (3 classi)
+- numero e diametro polloni rilasciati su ceppaia al taglio
+
+Rilievi supplementari:
+- radici (con Bischetti) pre e post taglio
+- profondità suolo / pietrosità (in seguito a osservazione -> alta mortalità polloni su displuvi)
+
+Atenzione:
+- ceppaia 1 pollone 1 misurata circonferenza (150 cm)
+- eliminare polloni molti piccoli e ininfluenti (d <= 7.5 cm)
+- % mortalità interamente spiegata da profondità suolo (in seguito a siccità 2017)?
+- età e diametro non appaiono correlati (chk)
+- esistenza di almeno 4 classi di età diverse (20-30-40-50) anche sulla stessa ceppaia
+- età illeggibile su ceppaie tagliate da piante morte, nonché da carote
